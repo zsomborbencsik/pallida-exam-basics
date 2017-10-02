@@ -17,7 +17,7 @@
 ## 1-3. Complete the following tasks: (~90 mins)
 - [Uniques Characters](uniquechars/unique_chars.py)
 - [Favourite Animals](favouriteanimals/favourite_animals.py)
-- [BlackJack](blackjack/black_jack.py)
+- [Battle of Armies](battleofarmies/battle_of_armies.py)
 
 ### Acceptance criteria
 The application is accepted if:
