@@ -30,19 +30,9 @@ The application is accepted if:
 
 ## 4. Question time! (~10 mins) [4p]
 
-### Name each building block of a method! [2p]
-
-![anatomy](anatomy/anatomy_py.png)
-
+###  What is the difference between a function and a method? [2p]
 #### Your answer:
-[add your answer here]   
-1:   
-2:   
-3:   
-4:   
-5:   
-6:   
-7:   
+[add your answer here]
 
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
