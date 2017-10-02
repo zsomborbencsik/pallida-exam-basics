@@ -16,7 +16,7 @@
 # Tasks
 ## 1-3. Complete the following tasks: (~90 mins)
 - [Uniques Characters](uniquechars/unique_chars.py)
-- [Copy](copy/copy.py)
+- [Favourite Animals](favouriteanimals/favourite_animals.py)
 - [BlackJack](blackjack/black_jack.py)
 
 ### Acceptance criteria
