@@ -15,7 +15,7 @@
 
 # Tasks
 ## 1-3. Complete the following tasks: (~90 mins)
-- [Uniques Characters](uniquechars/uniqueChars.py)
+- [Uniques Characters](uniquechars/UniqueChars.java)
 - [Copy](copy/copy.py)
 - [BlackJack](blackjack/black_jack.py)
 
