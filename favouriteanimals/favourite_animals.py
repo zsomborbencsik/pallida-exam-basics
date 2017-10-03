@@ -5,4 +5,5 @@
 # ```fav_animals [animal] [animal]```
 # You can add as many command line arguments as many favourite you have.
 # One animal should be stored only at once
-# Each animal should be written in separate lines.
+# Each animal should be written in separate lines
+# The program should only save animals, no need to print them
