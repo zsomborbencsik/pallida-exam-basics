@@ -12,7 +12,7 @@
 # We can raise the prices of all candies and lollipops with a given percentage
 # We can sell candie or lollipop with a given number as amount
 # If we sell sweets the income will raise with the price of the sweets and we delete it from the inventory
-# We can buy sugar with a given number as amount. The price of 1kg sugar is 100$
+# We can buy sugar with a given number as amount. The price of 1000gr sugar is 100$
 # If we buy sugar we can raise the CandyShop's amount of sugar and reduce the income.
 # The CandyShop should be represented as string in this format:
 # "Inventory: 3 candies, 2 lollipops, Income: 100, Sugar: 400gr"
@@ -31,3 +31,6 @@ candy_shop.raise_prices(5)
 candy_shop.sell("lollipop", 1)
 print(candy_shop)
 # "Invetory: 1 candies, 1 lollipops, Income:35, Sugar: 285gr"
+candy_shop.buy_sugar(300)
+print(candy_shop)
+# "Invetory: 1 candies, 1 lollipops, Income:5, Sugar: 315gr"
