@@ -22,7 +22,7 @@
 ### Acceptance criteria
 The application is accepted if:
 - The solution works according to specification [1p each]
-- The solution follows [styleguide](https://google.github.io/styleguide/pyguide.html) [1p]
+- The solution follows [styleguide](https://github.com/greenfox-academy/teaching-materials/blob/master/styleguide/cs.mds) [1p]
 - Has proper error handling where the specification says it [1p each]
 - Has the correct loops, methods, filters [1p each]
 - The code is clean, without unnecessary repetition, and with descriptive names [1p each]
