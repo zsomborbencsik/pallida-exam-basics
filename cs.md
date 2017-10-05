@@ -15,9 +15,9 @@
 
 # Tasks
 ## 1-3. Complete the following tasks: (~90 mins)
-- [Uniques Characters]()
-- [Favourite Animals]()
-- [Battle of Armies]()
+- [Uniques Characters](uniquechars/UniqueChars.cs)
+- [Favourite Animals](favouriteanimals/FavouriteAnimals.cs)
+- [Candy Shop](candyshop/TakeMeToThe.cs)
 
 ### Acceptance criteria
 The application is accepted if:
