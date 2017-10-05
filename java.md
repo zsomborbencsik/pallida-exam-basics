@@ -15,9 +15,9 @@
 
 # Tasks
 ## 1-3. Complete the following tasks: (~90 mins)
-- [Uniques Characters](uniquechars/UniqueChars.java)
-- [Copy](copy/copy.py)
-- [BlackJack](blackjack/black_jack.py)
+- [Uniques Characters](uniquechars/UniqueChars.jav)
+- [Favourite Animals](favouriteanimals/FavouriteAnimals.java)
+- [Candy Shop](candyshop/TakeMeToThe.java)
 
 ### Acceptance criteria
 The application is accepted if:
