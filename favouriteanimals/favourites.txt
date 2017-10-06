@@ -1,2 +1,6 @@
 dog
 cat
+doggy
+doggo
+dogsan
+kat

@@ -32,8 +32,14 @@ The application is accepted if:
 
 ###  What is the difference between a function and a method? [2p]
 #### Your answer:
-[add your answer here]
+
+A function is a piece of code that is called by name.
+A method is a piece of code that is called by a name that is associated with an object as well.
+There are two main defferences:
+A method is implicitly passed the object on which it was called while a function is explicitly called.
+A method is able to operate on data that is contained within the class (remembering that an object is an instance of a class - the class is the definition, the object is an instance of that data).
 
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
-[add your answer here]
+Constructor is a special member function which has same name as class name and called whenever the object of that class is created.
+
