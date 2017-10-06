@@ -37,4 +37,8 @@ public class CandyShop {
     public void buySugar(int sugarAmountBuy) {
         this.sugar += sugarAmountBuy;
     }
+    public String printInventory() {
+        String inventory = "Inventory: " + this.candies + " candies, " + this.lollipops + " lollipops, " + "Income: " + this.money + "$, " + "Sugar: "+ this.sugar;
+        return inventory;
+    }
 }

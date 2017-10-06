@@ -5,6 +5,5 @@ public class Lollipop extends Sweets {
     }
     public void setLollipopPrice(int loliprice) {
         this.price = loliprice;
-
     }
 }
