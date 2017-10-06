@@ -1,6 +1,6 @@
-.xml
+*.xml
 
-.json
+*.json
 
-.iml
+*.iml
 

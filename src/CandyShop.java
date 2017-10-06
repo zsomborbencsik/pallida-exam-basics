@@ -14,7 +14,6 @@ public class CandyShop {
     public void createSweets(Sweets newSweets) {
         if (newSweets == CANDY) {
             candies++;
-
         } else {
             lollipops++;
         }

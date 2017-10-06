@@ -6,7 +6,6 @@ public class UniqueChars {
         // Create a function called `uniqueCharacters` that takes a string as parameter
         // and returns a list with the unique letters of the given string
         // Create basic unit tests for it with at least 3 different test cases
-
         // Should print out:
         // ["n", "g", "r", "m"]
     }
@@ -21,6 +20,7 @@ public class UniqueChars {
                 notSoUniqueChars.add(word.charAt(i));
             }
         }
+
         /*Removing the first instances of the recurring letters.*/
         for (int i = 0; i < notSoUniqueChars.size(); i++) {
             if (uniqueChars.contains(notSoUniqueChars.get(i))) {
@@ -28,7 +28,5 @@ public class UniqueChars {
             }
         }
         return uniqueChars;
-
-
     }
 }
